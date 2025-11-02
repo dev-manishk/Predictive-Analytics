@@ -3,7 +3,7 @@
 
 
 
-## :bulb: OUTCOMES / LEARNING
+## :dart: OUTCOMES / LEARNING
  In this practical, you learn how to:
 * > Build a predictive model using historical customer data.
 * > Identify customers who are likely to churn.
@@ -12,7 +12,7 @@
 
 ---
 
-## :red_circle: Required Tools: 
+## :hammer_and_wrench: Required Tools: 
 * > IBM SPSS Modeler
 
 ---
@@ -139,7 +139,7 @@
   <img width="920" height="500" alt="image" src="https://github.com/user-attachments/assets/35deada0-8caa-4d2b-bb53-8e62a88030c0" />
 
 ---
-### Author 
+### 	:student: Author 
 * Name - Manish Kumar
 * Course - Predictive Analytics
 * Instructor: Mr. Ayushman Bhadauria
